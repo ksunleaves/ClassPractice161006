@@ -13,6 +13,6 @@ int main(){
 		cout<<a<<" u r stupid!!";
 	}
 else{
-	cout<<a<<" u make me discuse...";
+	cout<<a<<" u make me disgust...";
 }	
 }
